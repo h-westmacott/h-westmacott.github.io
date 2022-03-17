@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+# Permalinks
+permalink:           pretty
+
+>>>>>>> a0caa3e2d7da7e930de3dee85bae3b9d4da31408
 # Setup
 title:               Lanyon
 tagline:             'A Jekyll theme'
