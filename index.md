@@ -4,21 +4,21 @@ title: Home
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hi! My name's Henry, This website is my virtual CV and an overview of my projects. Thanks for visiting!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm currently based in Cambridge, England, finishing my PhD in Enhanced X-ray imaging and diagnostics with the department of Computer Science at Durham University.
+This work has been carried out under the supervision of [Ioannis Ivrissimtzis](https://www.durham.ac.uk/staff/ioannis-ivrissimtzis/) and [Tobias Weinzeirl](https://www.durham.ac.uk/staff/tobias-weinzierl/)
+You can read more abou this work on my Research page.
 
-There are currently two themes built on Poole:
+## Education
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+**PhD Computer Science, Enhanced X-ray Diagnostics and Imaging**
+*Durham University, October 2018 - Present*
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+**2:1 BSc (hons) Physics with Computer Science**
+*University of Sheffield, October 2015 - July 2018*
 
-## Setup
-
-Some fun facts about the setup of this project include:
 
 * Built for [Jekyll](https://jekyllrb.com)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
