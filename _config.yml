@@ -5,6 +5,7 @@ description:         'A reserved <a href="https://jekyllrb.com" target="_blank">
 url:                 https://h-westmacott.github.io
 baseurl:             /
 paginate:            5
+paginate_path:	     "/blog_posts/:num/"
 permalink:           pretty
 
 # About/contact
